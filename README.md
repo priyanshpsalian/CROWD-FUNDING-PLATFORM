@@ -1,8 +1,7 @@
 # Crowdfunding platform
 
-`Join the decentralized revolution with our web3 crowdfunding platform. Invest in innovative projects, securely and transparently, using cryptocurrency.`
+`Developed a blockchain-based crowdfunding platform utilizing smart contracts for secure and transparent fundraising campaigns.`
 
-‼ this project is only for learning purposes
 
 ![img](images_for_preview/1.jpg)
 
@@ -57,4 +56,4 @@ To learn more take a look at the following resources:
 - [TailwindCSS Documentation](https://tailwindcss.com/) - learn TailwindCSS.
 - [Vite Documentation](https://vitejs.dev/guide/) - learn about Vite features.
 
-<p style="text-align: center;font-size:1.25rem">this project is made with ♥ by <a href="https://github.com/priyanshpsalian" target="_blank" style="color:light-blue;text-decoration:none">@hacenbarb</a></p>
+<p style="text-align: center;font-size:1.25rem">this project is made with ♥ by <a href="https://github.com/priyanshpsalian" target="_blank" style="color:light-blue;text-decoration:none">@priyanshpsalian</a></p>
